@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Hello World/1.Hello World.iml" filepath="$PROJECT_DIR$/1.Hello World/1.Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" filepath="$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Output/2.Output.iml" filepath="$PROJECT_DIR$/2.Output/2.Output.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Input/3.Input.iml" filepath="$PROJECT_DIR$/3.Input/3.Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Types of Input methods/4.Types of Input methods.iml" filepath="$PROJECT_DIR$/4.Types of Input methods/4.Types of Input methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.Java math library/5.Java math library.iml" filepath="$PROJECT_DIR$/5.Java math library/5.Java math library.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.The Integer Class/6.The Integer Class.iml" filepath="$PROJECT_DIR$/6.The Integer Class/6.The Integer Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" filepath="$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" filepath="$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.while Loop/9.while Loop.iml" filepath="$PROJECT_DIR$/9.while Loop/9.while Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java For beginners.iml" filepath="$PROJECT_DIR$/.idea/Java For beginners.iml" />
     </modules>
   </component>
