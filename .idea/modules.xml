@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Hello World/1.Hello World.iml" filepath="$PROJECT_DIR$/1.Hello World/1.Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/1.array/1.array.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/1.array/1.array.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" filepath="$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.forLoop - for-each Loop/11.forLoop - for-each Loop.iml" filepath="$PROJECT_DIR$/11.forLoop - for-each Loop/11.forLoop - for-each Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.Nested Loops/12.Nested Loops.iml" filepath="$PROJECT_DIR$/12.Nested Loops/12.Nested Loops.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/18.String Concatenation/18.String Concatenation.iml" filepath="$PROJECT_DIR$/18.String Concatenation/18.String Concatenation.iml" />
       <module fileurl="file://$PROJECT_DIR$/19.Case Conversion and Trimming/19.Case Conversion and Trimming.iml" filepath="$PROJECT_DIR$/19.Case Conversion and Trimming/19.Case Conversion and Trimming.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Output/2.Output.iml" filepath="$PROJECT_DIR$/2.Output/2.Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/2.Sort Algorithms/2.Sort Algorithms.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/2.Sort Algorithms/2.Sort Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/20.Replacement and Modification/20.Replacement and Modification.iml" filepath="$PROJECT_DIR$/20.Replacement and Modification/20.Replacement and Modification.iml" />
       <module fileurl="file://$PROJECT_DIR$/21.StringBuilder and StringBuffer/21.StringBuilder and StringBuffer.iml" filepath="$PROJECT_DIR$/21.StringBuilder and StringBuffer/21.StringBuilder and StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/22.Regular Expressions/22.Regular Expressions.iml" filepath="$PROJECT_DIR$/22.Regular Expressions/22.Regular Expressions.iml" />
@@ -25,14 +27,22 @@
       <module fileurl="file://$PROJECT_DIR$/28.Advanced Array Concepts/28.Advanced Array Concepts.iml" filepath="$PROJECT_DIR$/28.Advanced Array Concepts/28.Advanced Array Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/29.Vectors in Java/29.Vectors in Java.iml" filepath="$PROJECT_DIR$/29.Vectors in Java/29.Vectors in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Input/3.Input.iml" filepath="$PROJECT_DIR$/3.Input/3.Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/3.Selection Sort/3.Selection Sort.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/3.Selection Sort/3.Selection Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/30. Intermediate Vector Concepts/30. Intermediate Vector Concepts.iml" filepath="$PROJECT_DIR$/30. Intermediate Vector Concepts/30. Intermediate Vector Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/31.Advanced Vector Concepts/31.Advanced Vector Concepts.iml" filepath="$PROJECT_DIR$/31.Advanced Vector Concepts/31.Advanced Vector Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/33.Object Oriented Programming/33.Object Oriented Programming.iml" filepath="$PROJECT_DIR$/33.Object Oriented Programming/33.Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/34.Data Structure and algorithms.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/34.Data Structure and algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/4.Insertion Sort/4.Insertion Sort.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/4.Insertion Sort/4.Insertion Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Types of Input methods/4.Types of Input methods.iml" filepath="$PROJECT_DIR$/4.Types of Input methods/4.Types of Input methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.Java math library/5.Java math library.iml" filepath="$PROJECT_DIR$/5.Java math library/5.Java math library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/5.Merge Sort/5.Merge Sort.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/5.Merge Sort/5.Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/6.Quick Sort/6.Quick Sort.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/6.Quick Sort/6.Quick Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.The Integer Class/6.The Integer Class.iml" filepath="$PROJECT_DIR$/6.The Integer Class/6.The Integer Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/7.ArrayList/7.ArrayList.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/7.ArrayList/7.ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" filepath="$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" filepath="$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/8.Vectors/8.Vectors.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/8.Vectors/8.Vectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/9.Singly LinkedList/9.Singly LinkedList.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/9.Singly LinkedList/9.Singly LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.while Loop/9.while Loop.iml" filepath="$PROJECT_DIR$/9.while Loop/9.while Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count Occurrences of a Character/Count Occurrences of a Character.iml" filepath="$PROJECT_DIR$/Count Occurrences of a Character/Count Occurrences of a Character.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java For beginners.iml" filepath="$PROJECT_DIR$/.idea/Java For beginners.iml" />
