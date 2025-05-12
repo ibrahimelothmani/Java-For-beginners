@@ -27,7 +27,10 @@
       <module fileurl="file://$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" filepath="$PROJECT_DIR$/7.Uppercase and lowercase/7.Uppercase and lowercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" filepath="$PROJECT_DIR$/8.Loops in Java/8.Loops in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.while Loop/9.while Loop.iml" filepath="$PROJECT_DIR$/9.while Loop/9.while Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count Occurrences of a Character/Count Occurrences of a Character.iml" filepath="$PROJECT_DIR$/Count Occurrences of a Character/Count Occurrences of a Character.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java For beginners.iml" filepath="$PROJECT_DIR$/.idea/Java For beginners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome Check/Palindrome Check.iml" filepath="$PROJECT_DIR$/Palindrome Check/Palindrome Check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse a String/Reverse a String.iml" filepath="$PROJECT_DIR$/Reverse a String/Reverse a String.iml" />
     </modules>
   </component>
 </project>
