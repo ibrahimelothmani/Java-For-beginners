@@ -8,19 +8,26 @@ public class Main {
 
         List<Employee> employees = new ArrayList<>();
         employees.add(new Employee("Ibrahim", 100));
-        employees.add(new Employee("Ibrahim", 200));
-        employees.add(new Employee("Ibrahim", 300));
-        employees.add(new Employee("Ibrahim", 400));
-
-//        employees.forEach(employee -> System.out.println(employees));
 
         EmployeeLinkedList employeeLinkedList = new EmployeeLinkedList();
         employees.forEach(employeeLinkedList::addToFront);
         System.out.println("Size: " + employeeLinkedList.getSize());
         employeeLinkedList.printList();
-
+        System.out.println("####################################################################");
         System.out.println("Adding to end");
         employees.forEach(employeeLinkedList::addToEnd);
+        System.out.println("Size: " + employeeLinkedList.getSize());
+        employeeLinkedList.printList();
+        System.out.println("####################################################################");
+        System.out.println("Removing from front");
+        EmployeeNode removedNode = employeeLinkedList.removeFromFront();
+        System.out.println("Removed: " + removedNode.getEmployee());
+        System.out.println("Size: " + employeeLinkedList.getSize());
+        employeeLinkedList.printList();
+        System.out.println("####################################################################");
+        System.out.println("Removing from end");
+        removedNode = employeeLinkedList.removeFromEnd();
+        System.out.println("Removed: " + removedNode.getEmployee());
         System.out.println("Size: " + employeeLinkedList.getSize());
         employeeLinkedList.printList();
     }

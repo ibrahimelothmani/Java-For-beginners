@@ -30,6 +30,41 @@ public class EmployeeLinkedList {
         size++;
     }
 
+    public EmployeeNode removeFromFront() {
+        if (head == null) {
+            return null;
+        }
+        EmployeeNode removedNode = head;
+        head = head.getNext();
+        size--;
+        if (head == null) {
+            tail = null;
+        }
+        return removedNode;
+    }
+
+    public EmployeeNode removeFromEnd() {
+        if (head == null) {
+            return null;
+        }
+        if (head == tail) {
+            EmployeeNode removedNode = head;
+            head = null;
+            tail = null;
+            size--;
+            return removedNode;
+        }
+        EmployeeNode current = head;
+        while (current.getNext() != tail) {
+            current = current.getNext();
+        }
+        EmployeeNode removedNode = tail;
+        tail = current;
+        tail.setNext(null);
+        size--;
+        return removedNode;
+    }
+
     public int getSize() {
         return size;
     }
