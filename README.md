@@ -6,6 +6,7 @@ This repository contains a comprehensive collection of Java programming examples
 
 The repository is organized into numbered folders, each focusing on a specific Java concept:
 
+### Basic Concepts
 1. **Hello World** - Your first Java program
 2. **Output** - Displaying information to the console
 3. **Input** - Reading user input using Scanner class
@@ -13,6 +14,8 @@ The repository is organized into numbered folders, each focusing on a specific J
 5. **Java math library** - Mathematical operations and functions
 6. **The Integer Class** - Working with Integer objects
 7. **Uppercase and lowercase** - String case manipulation
+
+### Control Flow
 8. **Loops in Java** - Introduction to loops
 9. **while Loop** - Working with while loops
 10. **do-while Loop** - Working with do-while loops
@@ -21,6 +24,8 @@ The repository is organized into numbered folders, each focusing on a specific J
 13. **break and continue** - Flow control in loops
 14. **Infinite Loops** - Understanding and avoiding infinite loops
 15. **Labelled Loops** - Using labels with loops
+
+### String Manipulation
 16. **Strings in Java** - Working with String objects
 17. **Substring and Substrings Manipulation** - Extracting parts of strings
 18. **String Concatenation** - Joining strings together
@@ -31,6 +36,8 @@ The repository is organized into numbered folders, each focusing on a specific J
 23. **Formatting and Parsing** - String formatting techniques
 24. **Handling Unicode and Special Characters** - Working with special characters
 25. **String Comparison and Sorting** - Comparing and ordering strings
+
+### Collections and Data Structures
 26. **Arrays in Java** - Working with arrays
 27. **Multidimensional Arrays** - Working with multi-dimensional arrays
 28. **Advanced Array Concepts** - Working with arrays in depth
@@ -38,7 +45,21 @@ The repository is organized into numbered folders, each focusing on a specific J
 30. **Intermediate Vector Concepts** - More on Vector collection
 31. **Advanced Vector Concepts** - Understanding Vector collection in depth
 
-Additionally, there are specialized examples like:
+### Advanced Topics
+33. **Object Oriented Programming** - Classes, inheritance, polymorphism, and encapsulation
+34. **Data Structure and algorithms** - Implementation of various data structures and algorithms:
+    - Arrays and sorting algorithms (Selection, Insertion, Merge, Quick Sort)
+    - ArrayList and Vector implementations
+    - Linked Lists (Singly, Doubly, JDK LinkedList)
+    - Stack and Queue implementations
+    - Hash Tables
+
+36. **Design Patterns** - Common design patterns categorized as:
+    - Creational Patterns
+    - Structural Patterns
+    - Behavioral Patterns
+
+### Special Examples
 - **Palindrome Check** - Checking if a string reads the same backward as forward
 - **Reverse a String** - Methods to reverse a string
 - **Count Occurrences of a Character** - Counting character occurrences in a string
@@ -56,3 +77,19 @@ Additionally, there are specialized examples like:
 3. Navigate to any example folder to explore the specific Java concept
 4. Each example contains a `Main.java` file with commented code explaining the concept
 5. Run the examples to see the concepts in action
+
+## Example Highlights
+
+### Input Example
+```java
+Scanner scanner = new Scanner(System.in);
+System.out.print("Enter your name: ");
+String name = scanner.nextLine(); // Reads a line of text
+
+System.out.print("Enter your age: ");
+int age = scanner.nextInt(); // Reads an integer
+System.out.println("Hello, " + name + "! You are " + age + " years old.");
+```
+
+--------------------------------------------------------------------------
+Happy Coding
