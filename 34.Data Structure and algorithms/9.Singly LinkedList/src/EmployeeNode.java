@@ -25,4 +25,12 @@ public class EmployeeNode {
     public void setNext(EmployeeNode next) {
         this.next = next;
     }
+
+    @Override
+    public String toString() {
+        return "EmployeeNode{" +
+                "employee=" + employee +
+                ", next=" + next +
+                '}';
+    }
 }
