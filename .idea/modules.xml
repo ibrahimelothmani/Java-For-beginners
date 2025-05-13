@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Hello World/1.Hello World.iml" filepath="$PROJECT_DIR$/1.Hello World/1.Hello World.iml" />
       <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/1.array/1.array.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/1.array/1.array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Data Structure and algorithms/10.Double Linked List/10.Double Linked List.iml" filepath="$PROJECT_DIR$/34.Data Structure and algorithms/10.Double Linked List/10.Double Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" filepath="$PROJECT_DIR$/10.do-while Loop/10.do-while Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.forLoop - for-each Loop/11.forLoop - for-each Loop.iml" filepath="$PROJECT_DIR$/11.forLoop - for-each Loop/11.forLoop - for-each Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.Nested Loops/12.Nested Loops.iml" filepath="$PROJECT_DIR$/12.Nested Loops/12.Nested Loops.iml" />
