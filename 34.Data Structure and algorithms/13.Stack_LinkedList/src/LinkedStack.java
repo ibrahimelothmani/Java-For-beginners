@@ -2,8 +2,8 @@
 
 public class LinkedStack {
 
-    private class Node {
-        private Employee employee;
+    private static class Node {
+        private final Employee employee;
         private Node next;
 
         public Node(Employee employee) {
